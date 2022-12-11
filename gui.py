@@ -11,7 +11,7 @@ def btn_click():
 
 
 
-frame = Frame(root, bg='#ada0a0')
+frame = Frame(root, bg='#green')
 frame.place(relx=0, rely=0, relwidth=1, relheight=1)
 
 number_input = Entry(frame, bg='white', font=('Arial', 15), width=35)
